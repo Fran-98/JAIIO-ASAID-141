@@ -6,7 +6,7 @@ Definimos una función/clase que será la entidad:
 
 ```python
 dañoMoral = {
-            "function": "incapacidad_psicologica",
+            "entity": "incapacidad_psicologica",
             "description": "Daño moral ocasionado, se indemniza mediante un monto de dinero, suele estar al final del apartado Daño Moral",
             "arguments": [
                 {

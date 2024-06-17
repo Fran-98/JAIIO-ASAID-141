@@ -6,7 +6,7 @@ Definimos una función/clase que será la entidad:
 
 ```python
 IncapacidadFisica = {
-            "function": "incapacidad_fisica",
+            "entity": "incapacidad_fisica",
             "description": "Incapacidad física del sujeto, el juez otorga un porcentaje de incapacidad. Suele aparecer en el párrafo “DAÑOS” acápite de ”incapacidad sobreviniente” “daño sobreviniente”, “daño físico”.",
             "arguments": [
                 {

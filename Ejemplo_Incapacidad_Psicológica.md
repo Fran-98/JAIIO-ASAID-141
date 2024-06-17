@@ -6,7 +6,7 @@ Definimos una función/clase que será la entidad:
 
 ```python
 IncapacidadPsicologica = {
-            "function": "incapacidad_psicologica",
+            "entity": "incapacidad_psicologica",
             "description": "Incapacidad Psicologica otorgado por el juez. Funcion a devolver si se encuentra una incapacidad médica explicitamente mencionada en el texto y estas totalmente seguro que es una incapacidad de una persona, en caso de no existir incapacidad en el texto devolver esta funcion con los argumentos en null",
             "arguments": [
                 {
